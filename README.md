@@ -3,6 +3,8 @@ The **FPSO** vessel contains some equipment and each equipment have multiple sen
 
 You are provided 3 files: the log file named “**equipment_failure_sensors.log**”; the file named “**equipment_sensors.csv**” with the relationships between sensors and equipment’s; and the file named “**equipment.json**” with the equipment data.
 
+### OBS: This test can be done either *BEFORE* or *DURING* the tech interview.
+
 > ## Steps
 
 > - *Extract **equipment_failure_sensors.rar** to a path/folder so you can read the .parquet data.*
