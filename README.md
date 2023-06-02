@@ -7,6 +7,8 @@ You are provided 3 files: the log file named “**equipment_failure_sensors.log*
 
 > ## Steps
 
+> - **Fork** or **Clone** this repository before starting the tech test.
+
 > - *Extract **equipment_failure_sensors.rar** to a path/folder so you can read the .parquet data.*
 
 > - You **must** structure your data in a way that queries will be optimized according to the data retrieval process regarding equipment, sensors, and dates. Data can also be manipulated in **ACID** transactions.
